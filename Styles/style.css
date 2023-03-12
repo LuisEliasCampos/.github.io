@@ -1,0 +1,105 @@
+body{
+    background-image: url("../images/pg3.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: initial;
+ }
+
+/*Toda la información*/
+.informacion{
+    height: auto;
+    padding: 20px;
+
+}
+/*Encabezado*/
+.info{
+
+    text-align: center;
+    color: beige;
+}
+.encabezado{
+    text-align: center;
+    color: beige;
+    font-size: 30px;
+}
+.titulo{
+    font-size: 20px;
+}
+
+/*Main*/
+#main-div{
+    width: 65%;
+    float: left;
+    color: beige;
+    height: auto;
+    padding-left: 30px;
+
+}
+.problema, .soluciones,.experimento{
+    display: block;
+    overflow: hidden;
+    color: beige;
+}
+
+.descripcion{
+    padding-left: 90px;
+    padding-right: 10px;
+    font-size: 18px;
+}
+
+
+
+/*Columna de la derecha*/
+.columna, #columna{
+     width: 30%;
+    height: 100%;
+     float: right;
+     color: white;
+
+
+    font-size: 15px;
+}
+
+.autores{
+    display: block;
+    text-align: center;
+    overflow: hidden;
+    font-size: 18px;
+}
+#autor1{
+    width: 200px;
+    height: 200px;
+    border-radius: 70%;
+}
+.estudiantes{
+    display: block;
+    text-align: center;
+    font-size: 18px;
+}
+#nombres-lista{
+
+    text-align: center;
+}
+
+#relacionado-articulo{
+    display: block;
+    text-align: center;
+    font-size: 18px;
+
+}
+.links{
+    color: lightblue;
+}
+
+#logo1,#logo2{
+    align-content: center;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+}
+#logo1{
+    width: 95px;
+    height: 95px;
+}
+
+
